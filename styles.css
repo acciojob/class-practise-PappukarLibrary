@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+.selector{
+	color: #00f;  /* Font color blue */
+    background-color: #eee;  /* Background color light grey */
+    font-family: Arial;  /* Font family Arial */
+    font-size: 20px;  
+	
+}
